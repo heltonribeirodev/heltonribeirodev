@@ -15,11 +15,7 @@
 <p align="left">Transformo ideias em soluções digitais inteligentes, eficientes e orientadas a resultados.<br>Desenvolvo sites e sistemas web modernos, funcionais e bem estruturados, sempre com foco em:<br><br>✨ Experiência do Usuário (UX)<br>⚡ Alta Performance<br>🔎 SEO Estratégico<br>📈 Resultados para o Negócio</p>
 
 ###
-
 <h3 align="left">🛠️ Tecnologias</h3>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="20" />
@@ -31,9 +27,6 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
 </div>
-
-###
-
 <h3 align="left">📲  Entre em contato comigo</h3>
 
 ###
@@ -51,7 +44,6 @@
 </div>
 
 ###
-
 <h3 align="left">📊 Estatísticas do GitHub</h3>
 
 ###
@@ -59,7 +51,7 @@
 <p align="left">🌐 Quer conhecer mais sobre meu trabalho?  <br>Acesse meu portfólio completo: https://hr-dev-beta.vercel.app/</p>
 
 ###
-
+---
 <p align="center">Pronto para elevar sua presença digital e destacar sua empresa no mercado?</p>
 
 ###
