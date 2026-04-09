@@ -72,10 +72,4 @@
 </div>
 
 ###
----
-<p align="left">🌐 Quer conhecer mais sobre meu trabalho?  <br>Acesse meu portfólio completo: https://hr-dev-beta.vercel.app/</p>
 
-###
-<p align="center">Pronto para elevar sua presença digital e destacar sua empresa no mercado?</p>
-
-###
