@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="70" src="logo white.png"  />
-</div>
-
-###
-
 <h1 align="center">Hi! I am Helton Ribeiro</h1>
 
 ###
@@ -16,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ Experiência do Usuário (UX)<br>⚡ Alta Performance<br>🔎 SEO Estratégico<br>📈 Resultados para o Negócio</h4>
+<h4 align="left">📊 Análise de Dados<br>🤖 Automações<br>✨ Experiência do Usuário (UX)<br>⚡ Alta Performance<br>🔎 SEO Estratégico<br>📈 Resultados para o Negócio</h4>
 
 ###
 
@@ -72,4 +66,3 @@
 </div>
 
 ###
-
