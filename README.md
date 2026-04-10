@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">📊 Análise de Dados<br>🤖 Automações<br>✨ Experiência do Usuário (UX)<br>⚡ Alta Performance<br>🔎 SEO Estratégico<br>📈 Resultados para o Negócio</h4>
+<h4 align="left">Experiência do Usuário (UX)<br>⚡ Alta Performance<br>🔎 SEO Estratégico<br>📈 Resultados para o Negócio</h4>
 
 ###
 
